@@ -1,0 +1,15 @@
+getting into first task
+First Task:(1)back in to carrage
+First Task:(1.5)go to detect
+First Task:(2)detect number
+image classification: 0
+First Task:(3)leaving First task
+getting into second task
+Second Task:(1)get to the scan position
+--change to turn just -90 degree
+--change to go straight
+--change to turn just 90 degree
+Second Task:(2)scan object
+objecttype = 2
+Second Task:(3)get out of the scan position
+get out of the region
